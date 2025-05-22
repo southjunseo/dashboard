@@ -1,8 +1,0 @@
-streamlit
-wordcloud
-matplotlib
-pillow
-numpy
-konlpy
-
-    
